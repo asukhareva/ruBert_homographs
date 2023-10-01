@@ -6,5 +6,5 @@ ruBert is applied in NER mode. Each word will be marked according to the followi
 2. otherwise tag O.
    
 Next, the classification problem is solved for each token. There are as many classes as there are different homographs + token O.
-## Mitric
+## Metric
 Accuracy >= 0.95
